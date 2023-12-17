@@ -1,0 +1,6 @@
+{
+  "name": "borel/myproject",
+  "require": {
+    "symfony/error-handler": "^7.0"
+  }
+}
